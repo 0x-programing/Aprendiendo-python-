@@ -1,0 +1,5 @@
+print("Sumadora de numeros enteros")
+num1 = int(input("introduce un numero entero para sumar: "))
+num2 = int(input("introduce el otro digito"))
+resultado = num1 + num2
+print("El resultado de la suma es: ", resultado)
